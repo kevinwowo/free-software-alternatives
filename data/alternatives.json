@@ -1,0 +1,494 @@
+[
+  {
+    "software": "After Effects",
+    "slug": "after-effects-alternatives",
+    "category": "Video",
+    "updated": "2026-10-14",
+    "verdict": "Natron and Blender cover free compositing and motion graphics we rendered; Resolve Fusion, Cavalry and Jitter are strong docs-backed options depending on VFX vs motion-design focus.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "Natron",
+        "url": "https://natrongithub.github.io/",
+        "price": "Free (open source)",
+        "priceSource": "https://github.com/NatronGitHub/Natron/releases",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Node-based 2D compositing, keying, roto and tracking",
+        "tested": true
+      },
+      {
+        "name": "Blender",
+        "url": "https://www.blender.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://www.blender.org/about/license/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "3D motion graphics, animated titles and VFX with a built-in video editor",
+        "tested": true
+      },
+      {
+        "name": "DaVinci Resolve (Fusion page)",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve/fusion",
+        "price": "Free; DaVinci Resolve Studio $295",
+        "priceSource": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": false,
+        "bestFor": "Editors who want node-based VFX and motion graphics inside their editing app",
+        "tested": false
+      },
+      {
+        "name": "Cavalry",
+        "url": "https://cavalry.scenegroup.co/",
+        "price": "Free for individuals",
+        "priceSource": "https://cavalry.scenegroup.co/pricing",
+        "platforms": [
+          "Windows",
+          "macOS"
+        ],
+        "openSource": false,
+        "bestFor": "Procedural 2D motion design and Lottie export",
+        "tested": false
+      },
+      {
+        "name": "Jitter",
+        "url": "https://jitter.video/",
+        "price": "Free plan (720p/30fps export); paid Pro, Max, Ultra, Enterprise",
+        "priceSource": "https://jitter.video/pricing/",
+        "platforms": [
+          "Web browser"
+        ],
+        "openSource": false,
+        "bestFor": "Quick UI and social animations in the browser, starting from Figma designs",
+        "tested": false
+      }
+    ]
+  },
+  {
+    "software": "Camtasia",
+    "slug": "camtasia-alternatives",
+    "category": "Video",
+    "updated": "2026-10-14",
+    "verdict": "For free screen capture on Linux, OBS Studio is the recorder; Shotcut (via MLT) covers simple multitrack edits we actually exported; DaVinci Resolve is the unpaid pro NLE if you leave Linux-package comfort.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "OBS Studio",
+        "url": "https://obsproject.com/",
+        "price": "Free (open source)",
+        "priceSource": "https://obsproject.com/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Screen, window and webcam recording and live streaming",
+        "tested": true
+      },
+      {
+        "name": "Shotcut",
+        "url": "https://shotcut.org/",
+        "price": "Free (open source)",
+        "priceSource": "https://shotcut.org/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Cutting and exporting screen recordings on a multitrack timeline",
+        "tested": true
+      },
+      {
+        "name": "DaVinci Resolve",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "price": "Free; DaVinci Resolve Studio $295",
+        "priceSource": "https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-FAIR-21",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": false,
+        "bestFor": "Editors who outgrew simple cut tools and need color, audio and Fusion in one app",
+        "tested": false
+      }
+    ]
+  },
+  {
+    "software": "Canva",
+    "slug": "canva-alternatives",
+    "category": "Design",
+    "updated": "2026-10-14",
+    "verdict": "Inkscape and Scribus are the free no-login Canva alternatives we exported with; Penpot covers collaborative browser design; Affinity is free for individuals per its site.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "Inkscape",
+        "url": "https://inkscape.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://inkscape.org/release/inkscape-1.4.4/gnulinux/",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Social graphics, logos and print-ready vector files without an account",
+        "tested": true
+      },
+      {
+        "name": "Scribus",
+        "url": "https://www.scribus.net/",
+        "price": "Free (open source)",
+        "priceSource": "https://www.scribus.net/downloads/",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Multi-page flyers, brochures and PDFs for print",
+        "tested": true
+      },
+      {
+        "name": "Penpot",
+        "url": "https://penpot.app/",
+        "price": "Free ($0 Professional plan); Unlimited $7 per editor/month",
+        "priceSource": "https://penpot.app/pricing",
+        "platforms": [
+          "Web browser",
+          "Self-hosted"
+        ],
+        "openSource": true,
+        "bestFor": "Teams that want browser-based, collaborative design with no vendor lock-in",
+        "tested": false
+      },
+      {
+        "name": "Affinity",
+        "url": "https://www.affinity.studio/",
+        "price": "Free for individuals",
+        "priceSource": "https://www.affinity.studio/",
+        "platforms": [
+          "Windows",
+          "macOS"
+        ],
+        "openSource": false,
+        "bestFor": "Designers who outgrew templates and want pro vector, photo and layout tools",
+        "tested": false
+      }
+    ]
+  },
+  {
+    "software": "CapCut",
+    "slug": "capcut-alternatives",
+    "category": "Video",
+    "updated": "2026-10-14",
+    "verdict": "If you want a free desktop CapCut alternative without a social-app account, Shotcut and Blender’s VSE both exported real MP4s here; DaVinci Resolve is the free-to-start editor when you need color and Fairlight.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "Shotcut",
+        "url": "https://shotcut.org/",
+        "price": "Free (open source)",
+        "priceSource": "https://shotcut.org/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Desktop cutting of short-form and YouTube clips without an account",
+        "tested": true
+      },
+      {
+        "name": "Blender (Video Sequence Editor)",
+        "url": "https://www.blender.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://www.blender.org/about/license/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Editors already in Blender who want timeline cuts plus 3D titles in one app",
+        "tested": true
+      },
+      {
+        "name": "DaVinci Resolve",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "price": "Free; DaVinci Resolve Studio $295",
+        "priceSource": "https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-FAIR-21",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": false,
+        "bestFor": "Creators who need a full NLE with color and audio after leaving CapCut",
+        "tested": false
+      }
+    ]
+  },
+  {
+    "software": "Figma",
+    "slug": "figma-alternatives",
+    "category": "Design",
+    "updated": "2026-10-14",
+    "verdict": "For a free Figma alternative you can use offline on Linux today, Inkscape covers vector UI frames we exported; Penpot is the open-source collaborative closest match (docs-only here); Lunacy and Affinity add desktop options with free tiers per their sites.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "Penpot",
+        "url": "https://penpot.app/",
+        "price": "Free Professional ($0/user/month); Unlimited $7/editor/month (cap $175/month)",
+        "priceSource": "https://penpot.app/pricing",
+        "platforms": [
+          "Web browser",
+          "Self-hosted"
+        ],
+        "openSource": true,
+        "bestFor": "Teams that want browser-based UI design closer to Figma without proprietary lock-in",
+        "tested": false
+      },
+      {
+        "name": "Inkscape",
+        "url": "https://inkscape.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://inkscape.org/",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Offline vector UI frames, icons and SVG handoff without an account",
+        "tested": true
+      },
+      {
+        "name": "Lunacy",
+        "url": "https://icons8.com/lunacy",
+        "price": "Free; Personal cloud $4.99/month; Graphics $9.99/month",
+        "priceSource": "https://lunacy.docs.icons8.com/subscriptions/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux",
+          "Web browser"
+        ],
+        "openSource": false,
+        "bestFor": "Desktop UI design with Figma import and optional offline use",
+        "tested": false
+      },
+      {
+        "name": "Affinity",
+        "url": "https://www.affinity.studio/",
+        "price": "Free for individuals (Canva account required)",
+        "priceSource": "https://www.affinity.studio/get-affinity",
+        "platforms": [
+          "Windows",
+          "macOS"
+        ],
+        "openSource": false,
+        "bestFor": "Designers who want a native pro vector/pixel/layout app at no seat cost",
+        "tested": false
+      }
+    ]
+  },
+  {
+    "software": "Lightroom",
+    "slug": "lightroom-alternatives",
+    "category": "Photo",
+    "updated": "2026-10-14",
+    "verdict": "darktable and RawTherapee are the free RAW editors we exported with; Affinity and DxO are docs-backed options when you want a polished commercial app.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "darktable",
+        "url": "https://www.darktable.org/",
+        "price": "Free (open source)",
+        "priceSource": "https://www.darktable.org/install/",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS (Apple silicon)"
+        ],
+        "openSource": true,
+        "bestFor": "Lightroom Classic users who want a catalog plus non-destructive RAW editing for free",
+        "tested": true
+      },
+      {
+        "name": "RawTherapee",
+        "url": "https://www.rawtherapee.com/",
+        "price": "Free (open source, GPLv3)",
+        "priceSource": "https://www.rawtherapee.com/",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Detailed RAW development and batch conversion without a catalog",
+        "tested": true
+      },
+      {
+        "name": "Affinity",
+        "url": "https://www.affinity.studio/",
+        "price": "Free for individuals",
+        "priceSource": "https://www.affinity.studio/",
+        "platforms": [
+          "Windows",
+          "macOS"
+        ],
+        "openSource": false,
+        "bestFor": "People who want photo editing, vector and layout in one free app",
+        "tested": false
+      },
+      {
+        "name": "DxO PhotoLab",
+        "url": "https://www.dxo.com/dxo-photolab/",
+        "price": "Paid, perpetual license (see DxO store for current price)",
+        "priceSource": "https://www.dxo.com/dxo-photolab/",
+        "platforms": [
+          "Windows",
+          "macOS"
+        ],
+        "openSource": false,
+        "bestFor": "Photographers who want a one-time purchase with strong noise reduction and lens corrections",
+        "tested": false
+      }
+    ]
+  },
+  {
+    "software": "Premiere Pro",
+    "slug": "premiere-pro-alternatives",
+    "category": "Video",
+    "updated": "2026-10-14",
+    "verdict": "The strongest free Premiere Pro alternative on paper is DaVinci Resolve; the free tools we actually exported with on Linux are Shotcut and Blender’s Video Sequence Editor.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "DaVinci Resolve",
+        "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+        "price": "Free; DaVinci Resolve Studio $295",
+        "priceSource": "https://www.blackmagicdesign.com/products/davinciresolve/techspecs/W-FAIR-21",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": false,
+        "bestFor": "Editors replacing Premiere who also need color and Fairlight audio",
+        "tested": false
+      },
+      {
+        "name": "Shotcut",
+        "url": "https://shotcut.org/",
+        "price": "Free (open source)",
+        "priceSource": "https://shotcut.org/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Lightweight timeline editing and broad format support without a subscription",
+        "tested": true
+      },
+      {
+        "name": "Blender (Video Sequence Editor)",
+        "url": "https://www.blender.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://www.blender.org/about/license/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Cut-plus-3D workflows and scriptable renders on Linux",
+        "tested": true
+      }
+    ]
+  },
+  {
+    "software": "SketchUp",
+    "slug": "sketchup-alternatives",
+    "category": "CAD",
+    "updated": "2026-10-14",
+    "verdict": "For parametric CAD on Linux, FreeCAD is the strongest free SketchUp alternative we could actually export with; OpenSCAD fits scripted parts; Blender covers mesh modeling; LibreCAD is 2D-only.",
+    "url": "https://freeinsteadof.com/",
+    "alternatives": [
+      {
+        "name": "FreeCAD",
+        "url": "https://www.freecad.org/",
+        "price": "Free (open source)",
+        "priceSource": "https://www.freecad.org/downloads.php",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Parametric solid modeling, STEP/STL export and mechanical-style CAD",
+        "tested": true
+      },
+      {
+        "name": "OpenSCAD",
+        "url": "https://openscad.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://openscad.org/about.html",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "Scripted, parametric parts for 3D printing and machine components",
+        "tested": true
+      },
+      {
+        "name": "Blender",
+        "url": "https://www.blender.org/",
+        "price": "Free (open source, GPL)",
+        "priceSource": "https://www.blender.org/about/license/",
+        "platforms": [
+          "Windows",
+          "macOS",
+          "Linux"
+        ],
+        "openSource": true,
+        "bestFor": "Mesh modeling, visualization and STL export when CAD history is less important",
+        "tested": true
+      },
+      {
+        "name": "LibreCAD",
+        "url": "https://www.librecad.org/",
+        "price": "Free (open source, GPLv2)",
+        "priceSource": "https://www.librecad.org/",
+        "platforms": [
+          "Linux",
+          "Windows",
+          "macOS"
+        ],
+        "openSource": true,
+        "bestFor": "2D drafting and DXF workflows (floor plans, profiles)",
+        "tested": false
+      }
+    ]
+  }
+]
